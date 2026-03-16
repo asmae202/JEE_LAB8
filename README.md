@@ -217,22 +217,21 @@ Principales annotations :
 
 # 🚀 Lancer l'application
 
-
-
-
+<img width="743" height="414" alt="Image" src="https://github.com/user-attachments/assets/3dd1194f-9b68-4a67-9917-691f07b42c98" />
 
 
 ---
 
+
+ ## Accé à l’interface Swagger:
+ 
+
+
+--- 
+
 # 🌐 Endpoints REST
 
-| Méthode | Endpoint           | Description                 |
-| ------- | ------------------ | --------------------------- |
-| POST    | /api/students      | ajouter un étudiant         |
-| GET     | /api/students      | afficher tous les étudiants |
-| GET     | /api/students/{id} | chercher un étudiant        |
-| PUT     | /api/students/{id} | modifier un étudiant        |
-| DELETE  | /api/students/{id} | supprimer un étudiant       |
+
 
 ---
 
