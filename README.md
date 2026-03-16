@@ -113,27 +113,7 @@ Structure principale du projet :
 
 Création de la base MySQL :
 
-```sql
-CREATE DATABASE student_db;
-```
 
-Configuration dans `application.properties` :
-
-```properties
-spring.application.name=studentapi
-
-server.port=8080
-
-spring.datasource.url=jdbc:mysql://localhost:3306/student_db?createDatabaseIfNotExist=true&useSSL=false&serverTimezone=UTC
-spring.datasource.username=root
-spring.datasource.password=
-
-spring.jpa.hibernate.ddl-auto=update
-spring.jpa.show-sql=true
-spring.jpa.properties.hibernate.format_sql=true
-
-spring.jpa.database-platform=org.hibernate.dialect.MySQL8Dialect
-```
 
 Explication :
 
