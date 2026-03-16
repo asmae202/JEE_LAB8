@@ -217,35 +217,10 @@ Principales annotations :
 
 # 🚀 Lancer l'application
 
-Étapes pour exécuter l'application :
 
-1. Cloner le projet
 
-```
-git clone https://github.com/votre-repository/student-api
-```
 
-2. Ouvrir le projet dans **IntelliJ ou Eclipse**
 
-3. Vérifier la configuration MySQL
-
-4. Lancer l'application :
-
-```
-StudentApiApplication.java
-```
-
-Ou via Maven :
-
-```
-mvn spring-boot:run
-```
-
-Le serveur démarre sur :
-
-```
-http://localhost:8080
-```
 
 ---
 
