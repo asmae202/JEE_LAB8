@@ -25,8 +25,6 @@
 
 [🚀 Lancer l'application](#-lancer-lapplication)
 
-[🌐 Endpoints REST](#-endpoints-rest)
-
 [📄 Documentation API avec Swagger](#-documentation-api-avec-swagger)
 
 [🧪 Tests des endpoints](#-tests-des-endpoints)
