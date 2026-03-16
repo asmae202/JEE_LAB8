@@ -225,15 +225,9 @@ Principales annotations :
 
  ## Accé à l’interface Swagger:
  
-
+<img width="901" height="470" alt="Image" src="https://github.com/user-attachments/assets/e76a261b-18fc-4b13-b6e7-de9c07e59f9c" />
 
 --- 
-
-# 🌐 Endpoints REST
-
-
-
----
 
 # 📄 Documentation API avec Swagger
 
@@ -252,8 +246,6 @@ Swagger génère automatiquement :
 * les schémas JSON
 * les tests interactifs
 
-Documentation :
-https://springdoc.org/
 
 ---
 
@@ -263,64 +255,36 @@ https://springdoc.org/
 
 Ajouter un étudiant :
 
-```json
-{
-  "firstName": "Sara",
-  "lastName": "El Amrani",
-  "email": "sara.elamrani@example.com",
-  "major": "Informatique",
-  "age": 21
-}
-```
+https://github.com/user-attachments/assets/446a3389-9cda-4b0a-9c65-3fe61c9b3e45
 
 ---
 
-## Test GET
+## Test Methode GET & GET BY ID:
 
-Afficher tous les étudiants :
-
-```
-GET /api/students
-```
-
----
-
-## Test GET BY ID
-
-```
-GET /api/students/1
-```
+https://github.com/user-attachments/assets/f11a2ecd-a784-4387-b903-f7fe0e009f15
 
 ---
 
 ## Test PUT
 
-Modifier un étudiant :
+Modifier email de sara:
 
-```json
-{
-  "firstName": "Sara",
-  "lastName": "El Amrani",
-  "email": "sara.updated@example.com",
-  "major": "Génie logiciel",
-  "age": 22
-}
-```
+https://github.com/user-attachments/assets/53492bb9-a6ac-4d1e-818a-6590ed779aab
 
 ---
 
 ## Test DELETE
 
-```
-DELETE /api/students/1
-```
+ Supprimer etudiant sara  id=1
+ 
+https://github.com/user-attachments/assets/10d705ee-8eb3-41eb-9244-f248410a3dae
 
-Réponse attendue :
+## Test GET apres suppression:
 
-```
-204 No Content
-```
+On veut verifier la suppression de sara avec methode get:
 
+https://github.com/user-attachments/assets/57a243e1-64ce-49eb-bf95-4272c066c885
+ 
 ---
 
 # 💡 Concepts clés
@@ -352,8 +316,4 @@ Réponse attendue :
 ✔ documentation Swagger
 ✔ endpoints testables directement
 
----
 
-# 📜 Licence
-
-Projet pédagogique destiné à l’apprentissage de **Spring Boot et des API REST**.
