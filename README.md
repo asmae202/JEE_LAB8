@@ -113,16 +113,9 @@ Structure principale du projet :
 
 Création de la base MySQL :
 
+<img width="776" height="289" alt="Image" src="https://github.com/user-attachments/assets/22388f9f-0bfe-431d-9099-5196e9086cc0" />
 
 
-Explication :
-
-* **ddl-auto=update** → crée automatiquement les tables
-* **show-sql=true** → affiche les requêtes SQL
-* **MySQL8Dialect** → dialecte SQL utilisé par Hibernate
-
-Documentation :
-https://docs.spring.io/spring-boot/docs/current/reference/html/data.html
 
 ---
 
@@ -172,8 +165,7 @@ StudentResponseDTO
 
 Ils sont définis avec **Java record**, ce qui réduit fortement le code.
 
-Documentation Java Record :
-https://docs.oracle.com/en/java/javase/17/language/records.html
+
 
 ---
 
@@ -220,9 +212,6 @@ Principales annotations :
 @PutMapping
 @DeleteMapping
 ```
-
-Documentation Spring REST :
-https://docs.spring.io/spring-framework/reference/web/webmvc.html
 
 ---
 
