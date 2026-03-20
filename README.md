@@ -1,5 +1,5 @@
 
-# Student Management API - Spring Boot
+# Student Management API - Spring Boot 
 
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat\&logo=springboot\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
